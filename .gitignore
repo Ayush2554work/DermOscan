@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+ham10000_images_part_1/
+ham10000_images_part_2/
+HAM10000_metadata.csv
+temp_capture.jpg
+*.pdf
